@@ -1,17 +1,6 @@
-library(tidyverse)
-library(ggplot2)
-library(dplyr)
-library(data.table)
-library(readr)
-library(ggbeeswarm)
-library(lme4)
-library(lmerTest)
-library(effects)
-library(broom)
-library(broom.mixed)
-library(rstatix)
 
-source('modelling_functions_0.1.R')
+
+source('scripts/modelling_functions_0.1.R')
 
 
 ## Read data in. Assumes the data in the /data subdirectory of the current directory, change if necessary.
