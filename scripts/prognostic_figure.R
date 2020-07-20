@@ -10,7 +10,6 @@ library(ggsignif)
 
 sample <-  read_csv(sample_datalocation)
 patient <- read_csv(patient_datalocation)
-population_names <- read_csv(population_names_datalocation)
 
 
 combined_data <-
