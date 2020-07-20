@@ -374,7 +374,7 @@ extract_controls  <- function(whole_data, perform_log = FALSE) {
 
 test_ser_controls <- function(this_param_data) {
   lm(par ~ class_ds, data = this_param_data) %>%
-    summary() %>%
+#    summary() %>%
     tidy()
   
 }

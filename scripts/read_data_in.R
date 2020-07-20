@@ -5,7 +5,7 @@
 #are on the website.
 sample <-  read_csv(sample_datalocation)
 patient <- read_csv(patient_datalocation)
-population_names <- read_csv(population_names_datalocation)
+
 
 #Join sample and patient information
 pat_flow_sero_cyto_ifna <-
