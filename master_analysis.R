@@ -1,4 +1,23 @@
 
+# Scripts to perform analyses reported in
+# https://www.medrxiv.org/content/10.1101/2020.06.08.20125112v1. 
+
+# Script assumes that in the directory data/data_from_webpage/ there are
+# per-sample and per-patient results from
+# https://www.immunophenotype.org/index.php/data/bulk-data-downloads/, so please
+# place these two files there or change sample_datalocation and
+# patient_datalocation accordingly.
+#
+# For the privacy reasons we are unable to provide exact age of the patients.
+# Hence, we make the code to check for sex/age dependency of immune parameters
+# available, but you won't be able to run it with the real source data. Instead
+# we provide necessary intermediate files for the parts of the pipeline which
+# depend on age/sex correction.
+##
+##Contact 
+##code: anna.lorenc@kcl.ac.uk
+##project: covidip@kcl.ac.uk
+
 
 source('scripts/modelling_functions_0.1.R')
 dir.create(path = "outputs")
@@ -8,7 +27,6 @@ sample_datalocation <-  "data/data_from_webpage/2020-06-30flow_sero_cyto__ifnaex
 patient_datalocation <- "data/data_from_webpage/pat_upd_dates20-07-02.csv"
 
 source('scripts/read_data_in.R', echo=TRUE)
-
 
 
 ######## Main statistical testing framework
@@ -60,9 +78,16 @@ source('scripts/prepare_final_result_table.R', echo=TRUE)
 
 write_csv(full_results_better, path = "outputs/full_results.csv")
 
-######## Additional tests
-####Compare peak antibody values
-source("scripts/peak_abs.R")
 
-###Prognostic figure 6
+
+######## Additional tests
+
+####Compare peak antibody values
+#### Fig 2a and FigS1d - peak antibody comparison
+source("scripts/peak_abs.R")
+write_csv(ab_peak, path='outputs/ab_peak.csv')
+
+###Prognostic test
+### Fig 6a-e
 source("scripts/prognostic_figure.R")
+write_csv(fig6a_tests, path='outputs/trajectory_stats.csv')

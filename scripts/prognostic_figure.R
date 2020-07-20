@@ -1,3 +1,5 @@
+# Duncan Mckenzie
+
 library(tidyverse)
 library(ggplot2)
 library(dplyr)
@@ -15,7 +17,7 @@ patient <- read_csv(patient_datalocation)
 combined_data <-
   left_join(sample, patient, by = c("patient_id"))
 
-
+#patients from hyperinflamatory group
 combined_data_1 <-   combined_data %>%
   mutate(
     admission_WHO_severity = case_when(
@@ -81,7 +83,6 @@ combined_data_2 <- combined_data_1 %>%
   mutate(value_COVIDIPbleed_ALT = (ifelse((ALT_since <= 3 &
                                              ALT_since >= -3), value_COVIDIPbleed_ALT, NA
   )))
-#for_models_2 <- subset(for_models_1,duplicated(patient_id) | duplicated(patient_id, fromLast=TRUE))
 
 prognostic_param <- as.vector(
   c(
@@ -103,9 +104,8 @@ prognostic_param <- as.vector(
   )
 )
 
-prognostic_readouts <-
-  as.vector(c("length_stay_hospital_post_Covidbleed01",
-              "trajectory_week"))
+prognostic_readouts <-c("length_stay_hospital_post_Covidbleed01",
+                        "trajectory_week")
 
 #choose first visit only, COVID only, only admitted as moderate or severe
 combined_data_3 <- combined_data_2 %>%
@@ -130,7 +130,7 @@ for_stats <-
   group_by(name)
 
 #report Dunn multiple comparison test results, with and without p-value adjustment
-tibble <- for_stats %>%
+fig6a_tests <- for_stats %>%
   rstatix::dunn_test(., value ~ trajectory_week, p.adjust.method = "bonferroni") %>%   #you can end here or reformat if the other version suits you better
   mutate(comparison = paste(group1, group2, sep = "-")) %>%
   select(name, p:comparison) %>%
@@ -140,4 +140,4 @@ tibble <- for_stats %>%
     values_from = p:p.adj.signif
   )
 
-write.csv(tibble, "trajectory_stats_20200710.csv")
+
