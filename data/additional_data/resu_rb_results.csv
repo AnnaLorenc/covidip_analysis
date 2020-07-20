@@ -1,0 +1,760 @@
+par,scale_arg,test,p.value_age,p.value_sexM,what_signif_0.01
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01 | Count_back,par,fit1_lmer,0.2858869414236932,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01 | Count_back,logpar,fit1_lmer,0.12562577261587005,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01/Memory_B_01 | Count_back,par,fit1_lmer,0.9353812204966371,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01/Memory_B_01 | Count_back,logpar,fit1_lmer,0.5118215569247728,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01/Niv_B_01 | Count_back,par,fit1_lmer,0.03257428326506052,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/B_01/Niv_B_01 | Count_back,logpar,fit1_lmer,0.044763083283386455,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/NK_01/NK_CD56bright_CD16pn | Count_back,par,fit2_lmer,0.08519753242103568,0.6829625318811865,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/NK_01/NK_CD56int_CD16p | Count_back,logpar,fit3_lmer,NA,0.09369026760591294,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/Non_NK_01/Monocytes_01/Classical_mono_01 | Count_back,par,fit1_lmer,0.2961945082751174,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/Non_NK_01/Monocytes_01/Int_mono_01 | Count_back,par,fit1_lmer,0.6935729438169773,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/Non_NK_01/Monocytes_01/Int_mono_01 | Count_back,logpar,fit1_lmer,0.7981053802164895,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/Non_NK_01/Monocytes_01/Patrolling_mono_01 | Count_back,par,fit1_lmer,0.5429791290775923,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/Non_BT_01/Non_NK_01/Monocytes_01/Patrolling_mono_01 | Count_back,logpar,fit1_lmer,0.23018035962291652,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD3p_CD56p_01 | Count_back,par,fit2_lmer,0.05754538339591059,0.4563906462552413,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01 | Count_back,par,fit1_lm,0.009095964214010913,NA,age
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01 | Count_back,logpar,fit1_lm,0.014525641566619615,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD45RAn_CD27p_01 | Count_back,par,fit1_lmer,0.19287112723500166,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD45RAp_CD27n_01 | Count_back,par,fit2_lmer,0.17363632639909105,0.8601441303397614,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD45RAp_CD27p_01 | Count_back,par,fit1_lmer,0.03926222495040761,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD45RAp_CD27p_01 | Count_back,logpar,fit1_lmer,0.20553599304646814,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD103p_01 | Count_back,par,fit1_lmer,0.5548278019519368,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_CD103p_01 | Count_back,logpar,fit1_lm,0.31480999838527846,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_nonTreg_01 | Count_back,par,fit1_lm,0.012982573234871406,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_nonTreg_01 | Count_back,logpar,fit1_lm,0.017121013840437307,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_Treg_01 | Count_back,par,fit1_lmer,0.01781833379574011,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD4_01/CD4_Treg_01 | Count_back,logpar,fit3_lmer,NA,0.08856573336407719,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01 | Count_back,par,fit1_lmer,0.20079148732118035,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01 | Count_back,logpar,fit1_lmer,0.0916011182884325,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_CD45RAn_CD27n_01 | Count_back,par,fit1_lmer,0.12004879567187453,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_CD45RAn_CD27p_01 | Count_back,par,fit1_lmer,0.3830793288834602,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_CD45RAn_CD27p_01 | Count_back,logpar,fit1_lmer,0.1853826685547497,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_CD45RAp_CD27n_01 | Count_back,par,fit2_lmer,0.15909738646965096,0.9530289560782863,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_CD103p_01 | Count_back,logpar,fit1_lmer,0.14292616518960283,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01/CD8_01/CD8_NKG2Dp_01 | Count_back,par,fit1_lmer,0.19785545530678905,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/CD19p_CD5p_4 | Count_back,par,fit1_lmer,0.517167763563491,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27n_IgGn_4 | Count_back,par,fit1_lmer,0.3402755996374187,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27n_IgGn_4 | Count_back,logpar,fit1_lmer,0.7878339845135798,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27n_IgGp_4 | Count_back,par,fit1_lm,0.1882815300039201,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27n_IgGp_4 | Count_back,logpar,fit2_lmer,0.14070584595706692,0.2752152041809274,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27p_IgGp_4 | Count_back,par,fit3_lmer,NA,0.13907199286277344,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/CD27_var/CD19p_IgMn_CD27p_IgGp_4 | Count_back,logpar,fit2_lmer,0.1443962568739144,0.3192340388241162,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/IgMp_CD27n_4 | Count_back,logpar,fit2_lmer,0.07174632332635121,0.9127132943923824,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/IgMp_CD27p_4 | Count_back,par,fit1_lmer,0.13646921943485624,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/IgMp_CD27p_4 | Count_back,logpar,fit2_lmer,0.14810913476734808,0.3223624523972105,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/non_trans/non_plasmablast/IgMp_CD27p_4/CD27p_IgMp_IgDp_4 | Count_back,par,fit1_lmer,0.13951644971243313,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/Transitional_4/T1_4 | Count_back,logpar,fit3_lmer,NA,0.15493801631374565,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/Transitional_4/T2_4 | Count_back,par,fit1_lmer,0.33386041746597916,NA,none
+Time_4/Cells_4/Singlets1_4/Singlets2_4/Live_4/B_4/Transitional_4/T2_4 | Count_back,logpar,fit1_lmer,0.05634665580846742,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01 | Count_back,par,fit1_lmer,0.30536465937091517,NA,none
+Time_01/Cells_01/Singlets1_01/Singlets2_01/Live_01/CD45_01/T_01 | Count_back,logpar,fit1_lmer,0.1968828723891424,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02 | Count_back,par,fit1_lmer,0.16438172866262363,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02 | Count_back,logpar,fit1_lmer,0.10577100250661936,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02 | Count_back,par,fit1_lmer,0.010663832263058172,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02 | Count_back,logpar,fit1_lmer,0.01485427843974886,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAn_CCR7p_02 | Count_back,par,fit1_lmer,0.006426867936244714,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAp_CCR7n_02 | Count_back,par,fit2_lmer,0.02792301741511326,0.8564804603841178,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAn_CCR7n_02 | Count_back,logpar,fit3_lmer,NA,0.1152586939353806,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAn_CD27p_02 | Count_back,par,fit1_lm,0.007585162021323333,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAp_CD27n_02 | Count_back,par,fit2_lmer,0.004509518205000375,0.6650321903200713,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD45RAp_CD27n_02 | Count_back,logpar,fit1_lmer,0.3289982181562031,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD103p_02 | Count_back,par,fit1_lmer,0.006901074941652834,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CD103p_02 | Count_back,logpar,fit1_lmer,0.2595151710667563,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CCR4p_02 | Count_back,logpar,fit1_lmer,1.3694325055978944e-4,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CCR4p_02/CD4_Th2_02 | Count_back,par,fit2_lmer,6.014393711131634e-8,0.8896222810921365,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CCR4p_02/CD4_Th17_02 | Count_back,par,fit1_lmer,0.02281906797567959,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CCR4p_02/CD4_Th17_02 | Count_back,logpar,fit1_lmer,0.03122618593479655,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CXCR3p_02 | Count_back,par,fit1_lmer,0.0022354652695435453,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CXCR3p_02/CD4_Th17.1_02 | Count_back,par,fit1_lmer,0.09770801415055765,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_CXCR3p_02/CD4_Th1_02 | Count_back,par,fit1_lm,0.0010157274979827537,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_NonTreg_02 | Count_back,par,fit1_lmer,0.03377519342675979,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_NonTreg_02/CD4_CD25p_02 | Count_back,logpar,fit2_lmer,0.15123623289749022,0.6485181390167929,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD4_02/CD4_Treg_02 | Count_back,par,fit1_lm,0.0011080427814062564,NA,age
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD45RAp_CCR7p_02 | Count_back,par,fit1_lmer,0.42420027640630287,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD45RAn_CCR7n_02 | Count_back,logpar,fit2_lmer,0.07127938065043163,0.5524472653161647,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD45RAp_CD27p_02 | Count_back,par,fit1_lmer,0.4704083680551491,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD45RAn_CD27n_02 | Count_back,par,fit2_lmer,0.193466928783511,0.3089068286583994,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD103p_02 | Count_back,par,fit1_lmer,0.18796516883569822,NA,none
+Time_02/Cells_02/Singlets1_02/Singlets2_02/Live_02/CD45p_02/T_02/CD8_02/CD8_CD103p_02 | Count_back,logpar,fit1_lmer,0.18867096702451466,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03 | Count_back,par,fit1_lm,0.15799704767718312,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03 | Count_back,logpar,fit1_lmer,0.10333189869118563,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03 | Count_back,par,fit1_lm,0.09016188201630704,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03 | Count_back,logpar,fit1_lm,0.05044994193339928,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03 | Count_back,par,fit1_lm,0.005520292519182752,NA,age
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03 | Count_back,logpar,fit1_lm,0.005719377843747848,NA,age
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAn_CCR7p_03 | Count_back,par,fit1_lmer,0.006420145632425881,NA,age
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAp_CCR7p_03 | Count_back,par,fit1_lmer,0.01801778162439796,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAp_CCR7p_03 | Count_back,logpar,fit2_lmer,0.0730823220275189,0.8558348710702057,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAn_CD27p_03 | Count_back,par,fit1_lmer,0.017720931903636654,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAp_CD27p_03 | Count_back,par,fit1_lmer,0.018262002069595284,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD45RAp_CD27p_03 | Count_back,logpar,fit1_lmer,0.027148289159287006,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD103p_03 | Count_back,par,fit1_lm,0.6821563855054511,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_CD103p_03 | Count_back,logpar,fit1_lm,0.3121132452202606,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_NKG2Dp_03 | Count_back,par,fit3_lmer,NA,0.15304068165981655,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD4_03/CD4_NKG2Dp_03 | Count_back,logpar,fit3_lmer,NA,0.1386203975337466,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03 | Count_back,par,fit1_lm,0.2586532571510049,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03 | Count_back,logpar,fit1_lmer,0.23896892620214485,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CCR7p_03 | Count_back,par,fit3_lmer,NA,0.11082295887334624,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CCR7p_03 | Count_back,logpar,fit3_lmer,NA,0.16538576084176596,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CCR7p_03 | Count_back,par,fit1_lmer,0.7857198041952951,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CCR7p_03 | Count_back,logpar,fit1_lmer,0.7854293541171518,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CCR7n_03 | Count_back,par,fit2_lmer,0.2023038532130411,0.5432415148806503,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CCR7n_03 | Count_back,logpar,fit2_lmer,0.2328511027509697,0.4592124647932886,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CCR7n_03 | Count_back,par,fit1_lmer,0.1127757835386905,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CD27p_03 | Count_back,par,fit3_lmer,NA,0.07942730750874763,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CD27p_03 | Count_back,logpar,fit3_lmer,NA,0.10980997804966566,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CD27p_03 | Count_back,par,fit1_lmer,0.7074513593543768,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CD27p_03 | Count_back,logpar,fit1_lmer,0.7081266459790398,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CD27n_03 | Count_back,par,fit2_lmer,0.1486841650137169,0.6081493209028652,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAp_CD27n_03 | Count_back,logpar,fit2_lmer,0.21341428560901832,0.612633426057434,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_CD45RAn_CD27n_03 | Count_back,par,fit3_lmer,NA,0.16191684306680193,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_NKG2Dp_03 | Count_back,par,fit1_lmer,0.449241218267711,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_PD1p_03 | Count_back,par,fit1_lmer,0.261872719639225,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/CD3p_gdn_03/CD8_03/CD8_PD1p_03 | Count_back,logpar,fit1_lmer,0.5133683356511174,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03 | Count_back,par,fit2_lmer,0.048729890117449375,0.8336829032725654,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03 | Count_back,logpar,fit1_lmer,0.11849644905866259,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD8n_03 | Count_back,par,fit2_lm,0.026796582460030475,0.027366097661602643,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD8p_03 | Count_back,par,fit2_lmer,0.0970578197728342,0.22178179424121303,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD8p_03 | Count_back,logpar,fit1_lm,0.011765676126181629,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAn_CCR7n_03 | Count_back,logpar,fit3_lmer,NA,0.1024870197477059,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAn_CCR7p_03 | Count_back,par,fit1_lmer,0.9411089301610591,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAn_CD27p_03 | Count_back,par,fit1_lmer,0.4453394939585955,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAn_CD27p_03 | Count_back,logpar,fit2_lmer,0.18818452908538857,0.7008516279922246,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CCR7n_03 | Count_back,par,fit2_lmer,0.0439010096324502,0.3025742847472688,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CCR7n_03 | Count_back,logpar,fit1_lmer,0.1392069284717759,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CCR7p_03 | Count_back,par,fit3_lmer,NA,0.01812466100389749,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CCR7p_03 | Count_back,logpar,fit3_lmer,NA,0.018217810436834687,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CD27n_03 | Count_back,par,fit2_lmer,0.07017827435807643,0.2709436992235514,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CD27n_03 | Count_back,logpar,fit2_lm,0.03288382949972058,0.10912105852263562,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_CD45RAp_CD27p_03 | Count_back,logpar,fit1_lmer,0.08282984455500943,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_NKG2Dp_03 | Count_back,par,fit2_lm,0.035191812053953365,0.0815316564020961,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_NKG2Dp_03 | Count_back,logpar,fit1_lm,0.014741071098913384,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_PD1p_03 | Count_back,par,fit2_lmer,0.15528781287701574,0.24574339715169793,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd1_03/Vd1_PD1p_03 | Count_back,logpar,fit1_lm,0.01591147985779427,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03 | Count_back,par,fit2_lmer,0.08458881635882531,0.532225273864884,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03 | Count_back,logpar,fit1_lmer,0.1618069843375852,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD8n_03 | Count_back,par,fit2_lmer,0.0712222529584703,0.46444148822767417,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD8n_03 | Count_back,logpar,fit1_lmer,0.15129307018973487,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAn_CCR7n_03 | Count_back,par,fit2_lmer,0.1306082697968388,0.3301656867380993,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAn_CCR7n_03 | Count_back,logpar,fit2_lmer,0.11792146438706907,0.24896328423980366,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAn_CD27p_03 | Count_back,par,fit2_lmer,0.019447307128762695,0.84024531804061,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAn_CD27p_03 | Count_back,logpar,fit2_lmer,0.057561362157198724,0.5671253697692559,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAp_CCR7n_03 | Count_back,par,fit2_lmer,0.13183822649625507,0.38042607702171227,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAp_CCR7p_03 | Count_back,par,fit3_lmer,NA,0.02979926619024482,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAp_CCR7p_03 | Count_back,logpar,fit3_lmer,NA,0.039778705033814844,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD45RAp_CD27p_03 | Count_back,par,fit2_lm,0.050481516010922885,0.17971924878299378,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD103p_03 | Count_back,par,fit1_lmer,0.3731806148133545,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_CD103p_03 | Count_back,logpar,fit1_lm,0.9701443001886005,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_NKG2Dp_03 | Count_back,par,fit2_lmer,0.11197608329044396,0.52844086163219,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_NKG2Dp_03 | Count_back,logpar,fit1_lmer,0.30161796650954587,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vd2_03/Vd2_PD1p_03 | Count_back,logpar,fit1_lmer,0.18307314919375642,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03 | Count_back,par,fit1_lmer,0.2510246352728713,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_CD8p_03 | Count_back,par,fit1_lmer,0.2451008787900978,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_CD45RAn_CCR7p_03 | Count_back,par,fit1_lmer,0.6918119338945619,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_CD45RAp_CD27p_03 | Count_back,par,fit1_lmer,0.46052499080629505,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_CD103p_03 | Count_back,par,fit1_lmer,0.633306203259034,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_CD103p_03 | Count_back,logpar,fit1_lmer,0.40209283374338345,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_NKG2Dp_03 | Count_back,par,fit1_lmer,0.21288506088551376,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_NKG2Dp_03 | Count_back,logpar,fit1_lmer,0.4291639948544477,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_PD1p_03 | Count_back,par,fit1_lmer,0.35435967952204805,NA,none
+Time_03/Cells_03/Singlets1_03/Singlets2_03/Live_03/CD45p_03/T_03/gd_03/gd_Vdx_03/Vdx_PD1p_03 | Count_back,logpar,fit1_lmer,0.4992655441091123,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08 | Count_back,logpar,fit1_lm,0.5216318392376833,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/B_Cells_08/B_cells_CD86p_08 | Count_back,logpar,fit1_lmer,0.04528829870475306,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/HLADRn_CD14n_08/Basophils_08 | Count_back,par,fit2_lmer,0.1331685738150706,0.5204150049986356,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/HLADRn_CD14n_08/Basophils_08 | Count_back,logpar,fit2_lmer,0.10124265436277623,0.3465493557785977,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08 | Count_back,par,fit2_lmer,0.15545109478672003,0.8236530061300785,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Classical_monocytes_08 | Count_back,par,fit2_lmer,0.16881311002402577,0.7751202904647113,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Classical_monocytes_08/CM_CD86p_08 | Count_back,par,fit2_lmer,0.1686207028575312,0.7734631136825416,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Intermediate_monocytes_08 | Count_back,logpar,fit1_lmer,0.9096486363239868,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Intermediate_monocytes_08/IM_CD86p_08 | Count_back,logpar,fit1_lmer,0.6627004824066236,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Patrolling_monocytes_08 | Count_back,par,fit1_lmer,0.14051349955103068,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Monocytes_08/Patrolling_monocytes_08/PM_CD86p_08 | Count_back,logpar,fit2_lmer,0.14915114883367944,0.6319671435678178,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08 | Count_back,par,fit1_lmer,0.15550365994705606,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08 | Count_back,logpar,fit1_lmer,0.0940678802757098,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08/mDC1_08/mDC1_CD86p_08 | Count_back,logpar,fit1_lmer,0.4007903687941895,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08/mDC2_08 | Count_back,par,fit1_lmer,0.009107220779026233,NA,age
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08/mDC2_08 | Count_back,logpar,fit1_lmer,0.017390524775672052,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08/mDC2_08/mDC2_CD86p_08 | Count_back,logpar,fit3_lmer,NA,0.1377179661011171,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/Non_pDC_08/mDC_08/mDC_CD86p_08 | Count_back,logpar,fit1_lm,0.7107376647067684,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/pDC_08/pDC_CD86p_08 | Count_back,par,fit1_lmer,0.3633280209597829,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/Non-BT_08/Non-monocytes_08/HLADRp_08/HLADRp_CD16n_08/pDC_08/pDC_CD86p_08 | Count_back,logpar,fit1_lmer,0.5913755560357887,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/T-Cells_08 | Count_back,par,fit3_lmer,NA,0.07500775914589339,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/Non_PMN_08/T-Cells_08 | Count_back,logpar,fit3_lmer,NA,0.1134265954683917,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/PMN_08 | Count_back,logpar,fit1_lm,0.38642890804030583,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/PMN_08/Neutrophils_08 | Count_back,par,fit1_lm,0.33633267351603,NA,none
+Time_08/Cells_08/Singlets1_08/Singlets2_08/Live_08/PMN_08/Neutrophils_08 | Count_back,logpar,fit1_lm,0.38825023775676737,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5 | Count_back,par,fit1_lmer,0.010770447373404306,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5 | Count_back,logpar,fit1_lmer,0.013600780610321257,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5 | Count_back,par,fit1_lmer,8.880809535874832e-4,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5 | Count_back,logpar,fit1_lmer,0.002919929428883068,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5 | Count_back,par,fit1_lm,0.9821854732795903,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5 | Count_back,logpar,fit1_lm,0.6676284919828389,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5 | Count_back,par,fit1_lmer,0.4041131221052202,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5 | Count_back,logpar,fit1_lmer,0.7165508674729704,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/gd_5 | Count_back,par,fit1_lmer,0.06759595318006403,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5 | Count_back,par,fit1_lmer,0.0035920630576565154,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5 | Count_back,logpar,fit1_lmer,0.7412770711091645,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7n_5 | Count_back,par,fit1_lmer,0.06117207538310571,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5 | Count_back,par,fit1_lmer,0.008243975271708667,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5 | Count_back,logpar,fit1_lmer,0.28036378540022383,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5 | Count_back,par,fit1_lm,0.5074919696288119,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5 | Count_back,logpar,fit1_lm,0.038487660551347294,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5 | Count_back,par,fit2_lm,0.030639087378185992,0.07787827437132637,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5 | Count_back,logpar,fit1_lmer,0.6055161311999013,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5 | Count_back,par,fit1_lmer,0.4008870604035386,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5 | Count_back,logpar,fit1_lmer,0.47746294206209994,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7n_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.03190256248485947,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/G0_5 | Count_back,par,fit1_lmer,0.003547427164750854,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/G0_5 | Count_back,logpar,fit1_lmer,0.7374306541746971,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/G1_5 | Count_back,par,fit1_lmer,0.12302790448264171,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/G1_5 | Count_back,logpar,fit1_lmer,0.8133568334530376,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.25849072018224123,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAn_CCR7p_5/S_G2_M_5 | Count_back,logpar,fit3_lmer,NA,0.1262790032678094,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7n_5/G0_5 | Count_back,par,fit1_lmer,0.062429758145668916,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7n_5/G1_5 | Count_back,par,fit2_lmer,0.024550914380349977,0.7209666684906834,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7n_5/G1_5 | Count_back,logpar,fit2_lm,0.1288526077888522,0.06916806943090138,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7n_5/S_G2_M_5 | Count_back,logpar,fit1_lmer,0.5357142145219347,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/G0_5 | Count_back,par,fit1_lmer,0.00846016404822911,NA,age
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/G0_5 | Count_back,logpar,fit1_lmer,0.2812657250410523,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/G1_5 | Count_back,par,fit1_lmer,0.01169624788766525,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/G1_5 | Count_back,logpar,fit1_lmer,0.14893397125611657,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/S_G2_M_5 | Count_back,par,fit1_lm,0.012145635235345714,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD4p_5/CD4_CD45RAp_CCR7p_5/S_G2_M_5 | Count_back,logpar,fit1_lm,0.09974379643383476,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/G0_5 | Count_back,par,fit1_lm,0.4770184930952074,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/G0_5 | Count_back,logpar,fit1_lm,0.035327437454180675,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/G1_5 | Count_back,par,fit1_lm,0.5579436668918393,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/G1_5 | Count_back,logpar,fit3_lmer,NA,0.08389167915143922,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.9855875311596569,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7n_5/S_G2_M_5 | Count_back,logpar,fit3_lmer,NA,0.07112750594408807,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5/G0_5 | Count_back,par,fit2_lm,0.030723592394175606,0.07714878855844695,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5/G0_5 | Count_back,logpar,fit1_lmer,0.6042076517853175,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5/G1_5 | Count_back,par,fit1_lmer,0.1568052608633746,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5/G1_5 | Count_back,logpar,fit1_lmer,0.6952143456294051,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAn_CCR7p_5/S_G2_M_5 | Count_back,logpar,fit1_lmer,0.25783864803489603,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7n_5/G1_5 | Count_back,par,fit1_lmer,0.4777855066772472,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7n_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.8827392747985122,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7n_5/S_G2_M_5 | Count_back,logpar,fit1_lmer,0.4960729084392972,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/G0_5 | Count_back,par,fit1_lmer,0.4068274383822089,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/G0_5 | Count_back,logpar,fit1_lmer,0.4804178158381772,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/G1_5 | Count_back,par,fit1_lmer,0.10948294629938596,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/G1_5 | Count_back,logpar,fit1_lmer,0.10686835448113831,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.06541918436320081,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3n_5/CD8p_5/CD8_CD45RAp_CCR7p_5/S_G2_M_5 | Count_back,logpar,fit1_lmer,0.03172965389849545,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/G0_5 | Count_back,par,fit1_lmer,0.42044463909904206,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/G0_5 | Count_back,logpar,fit1_lmer,0.47509168127032286,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/G1_5 | Count_back,par,fit1_lmer,0.41663012315574766,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/G1_5 | Count_back,logpar,fit1_lmer,0.9363208039866062,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/S_G2_M_5 | Count_back,par,fit1_lmer,0.2457112023371918,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/ab_5/Foxp3p_5/S_G2_M_5 | Count_back,logpar,fit1_lmer,0.47102217382552003,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/gd_5/G0_5 | Count_back,par,fit1_lmer,0.06856078449390152,NA,none
+Cells_5/Time_5/Live_5/Live_cells_5/CD3p_5/No_Doublets_5/gd_5/S_G2_M_5 | Count_back,logpar,fit3_lmer,NA,0.07354785651035348,none
+Time_06/Cells_06 | Count_back,par,fit1_lmer,0.4699728110158473,NA,none
+Time_06/Cells_06 | Count_back,logpar,fit1_lmer,0.06074717033266666,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06 | Count_back,par,fit2_lm,0.014358247796816206,0.025630465718711762,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06 | Count_back,logpar,fit2_lm,0.009201541893133004,0.03365984747867127,age
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06 | Count_back,par,fit1_lmer,0.1845204083889801,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/B_06 | Count_back,par,fit2_lm,0.047440532037564806,0.10066965870256783,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/B_06 | Count_back,logpar,fit2_lmer,0.041838327999559714,0.42741857390026594,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/CD3p_CD3n_06/T_06 | Count_back,par,fit1_lm,0.16615129704428902,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/CD3p_CD3n_06/T_06 | Count_back,logpar,fit1_lmer,0.10683402791741017,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/CD3p_CD3n_06/NKT_06 | Count_back,par,fit3_lmer,NA,0.10493615925698316,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Lymphocytes_06/CD3p_CD3n_06/NKT_06 | Count_back,logpar,fit3_lmer,NA,0.1120957233778488,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15n_06/Classical_monocytes_06 | Count_back,par,fit1_lmer,0.3502632485541627,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15n_06/Intermediate_monocytes_06 | Count_back,par,fit1_lmer,0.9520025044191311,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15n_06/Intermediate_monocytes_06 | Count_back,logpar,fit1_lmer,0.8858867943448494,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15n_06/Non_classical_monocytes_06 | Count_back,par,fit1_lmer,0.6873340813748077,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15n_06/Non_classical_monocytes_06 | Count_back,logpar,fit1_lmer,0.2780529939116695,NA,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15p_06/Neutrophils_06 | Count_back,par,fit2_lmer,0.07856071971397881,0.26266385169966394,none
+Time_06/Cells_06/Singlets1_06/Singlets2_06/CD45p_06/Not_lymphocytes_06/CD15p_06/Neutrophils_06 | Count_back,logpar,fit1_lmer,0.33376594357097555,NA,none
+NA,NA,fit2_lm,0.24934691798721337,0.01686360532921105,none
+NA,NA,fit2_lm,0.18482088796587698,0.011527518985258877,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7 | Count_back,logpar,fit2_lmer,0.10864720788741027,0.21527523955602346,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7 | Count_back,par,fit3_lmer,NA,0.008011381515441292,sex
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7 | Count_back,logpar,fit3_lmer,NA,0.015621255205597085,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_PD1n_7 | Count_back,par,fit1_lm,0.1510596269212034,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_PD1n_7 | Count_back,logpar,fit1_lm,0.04435548584893005,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_PD1p_7 | Count_back,par,fit1_lm,0.9353305932418692,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.08726069270407157,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3n_PD1n_7 | Count_back,par,fit3_lmer,NA,0.0209290966596144,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3n_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.015565219128560282,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3n_PD1p_7 | Count_back,par,fit1_lm,0.9059327373394779,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3n_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.08751646781908348,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3p_PD1n_7 | Count_back,par,fit1_lm,0.04778308350196393,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD3p_CD4n_TIM3p_PD1n_7 | Count_back,logpar,fit1_lm,0.013298558212012342,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7 | Count_back,par,fit3_lmer,NA,0.03808169198860246,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7 | Count_back,logpar,fit3_lmer,NA,0.026380310216687575,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_CXCR3n_CCR6p_7 | Count_back,logpar,fit3_lmer,NA,0.07266390217018398,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_CXCR3p_CCR6n_7 | Count_back,par,fit3_lmer,NA,0.046452381576230765,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_CXCR3p_CCR6n_7 | Count_back,logpar,fit3_lmer,NA,0.04027883128971268,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_CXCR3p_CCR6p_7 | Count_back,logpar,fit3_lmer,NA,0.07056475195461265,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_PD1n_7 | Count_back,par,fit3_lmer,NA,0.048867474884103375,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.015268283166552394,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_PD1p_7 | Count_back,par,fit3_lmer,NA,0.10282265537025989,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.07839807076091469,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3n_PD1n_7 | Count_back,par,fit3_lmer,NA,0.04294290205475037,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3n_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.018508373743283717,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3n_PD1p_7 | Count_back,par,fit3_lmer,NA,0.138097783614275,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3n_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.10913833099860433,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3p_PD1n_7 | Count_back,par,fit3_lmer,NA,0.06607352033609544,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3p_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.034869314177859656,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3p_PD1p_7 | Count_back,par,fit3_lmer,NA,0.09957472375977498,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAn_7/CD4n_CD45RAn_TIM3p_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.0684208649254267,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7 | Count_back,par,fit3_lmer,NA,0.020718123982557853,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7 | Count_back,logpar,fit3_lmer,NA,0.03912195838808328,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_CXCR3n_CCR6n_7 | Count_back,par,fit3_lmer,NA,0.0394342610826553,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_CXCR3n_CCR6n_7 | Count_back,logpar,fit3_lmer,NA,0.06695301618392185,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_CXCR3p_CCR6n_7 | Count_back,par,fit3_lmer,NA,0.040793766101081264,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_CXCR3p_CCR6n_7 | Count_back,logpar,fit3_lmer,NA,0.046575540716704875,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_PD1n_7 | Count_back,par,fit1_lm,0.17237075209217087,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_PD1n_7 | Count_back,logpar,fit1_lm,0.045179864362396335,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_PD1p_7 | Count_back,par,fit1_lmer,0.7788783191023273,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_TIM3n_PD1n_7 | Count_back,par,fit3_lmer,NA,0.041879976046060204,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_TIM3n_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.0370663173979081,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_TIM3n_PD1p_7 | Count_back,par,fit1_lmer,0.8215783254903435,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_TIM3p_PD1n_7 | Count_back,par,fit1_lm,0.04850433301089889,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4n_T_7/CD4n_CD45RAp_7/CD4n_CD45RAp_TIM3p_PD1n_7 | Count_back,logpar,fit1_lm,0.04524305544041574,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7 | Count_back,par,fit2_lm,0.2682747694581287,0.061915978667973284,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7 | Count_back,logpar,fit2_lm,0.09824000726110405,0.03261339117864506,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7 | Count_back,par,fit1_lm,0.47675815910455066,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7 | Count_back,logpar,fit3_lmer,NA,0.07910129856530465,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6n_7 | Count_back,par,fit1_lmer,0.002838583140791918,NA,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6n_7 | Count_back,logpar,fit1_lmer,0.005885487478384056,NA,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6n_7/CD4p_CD45RAn_CXCR3n_CCR6n_PD1n_7 | Count_back,par,fit1_lmer,7.889911990732734e-4,NA,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6n_7/CD4p_CD45RAn_CXCR3n_CCR6n_PD1n_7 | Count_back,logpar,fit1_lmer,0.0013334253494324496,NA,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6n_7/CD4p_CD45RAn_CXCR3n_CCR6n_PD1p_7 | Count_back,par,fit1_lmer,0.05856068704477518,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 | Count_back,par,fit1_lm,0.4301042837709953,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 | Count_back,logpar,fit3_lmer,NA,0.13407125545616105,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6p_7/CD4p_CD45RAn_CXCR3n_CCR6p_PD1n_7 | Count_back,par,fit1_lm,0.10809296406698962,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6p_7/CD4p_CD45RAn_CXCR3n_CCR6p_PD1n_7 | Count_back,logpar,fit1_lm,0.06059020453270353,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3n_CCR6p_7/CD4p_CD45RAn_CXCR3n_CCR6p_PD1p_7 | Count_back,logpar,fit1_lmer,0.4241581741400987,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 | Count_back,logpar,fit3_lmer,NA,0.04040983985901294,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_PD1n_7 | Count_back,par,fit2_lm,0.08054437634082598,0.024374064358845305,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_PD1n_7 | Count_back,logpar,fit2_lm,0.033710471406992945,0.006434625959488506,sex
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_PD1p_7 | Count_back,logpar,fit2_lm,0.15316412174676322,0.01866655723053984,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1n_7 | Count_back,par,fit2_lm,0.08480888837935184,0.021996749911527762,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1n_7 | Count_back,logpar,fit2_lm,0.036210125784073066,0.00589835522253792,sex
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1p_7 | Count_back,par,fit1_lm,0.30082394688497,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1p_7 | Count_back,logpar,fit2_lm,0.14907868136650804,0.01494931450457322,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1n_7 | Count_back,par,fit1_lmer,0.678609869630965,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1n_7 | Count_back,logpar,fit1_lm,0.3950272668440543,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1p_7 | Count_back,par,fit1_lmer,0.6422491853945302,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 | Count_back,par,fit3_lmer,NA,0.04518638280597741,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 | Count_back,logpar,fit3_lmer,NA,0.037167408680508336,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6p_7/CD4p_CD45RAn_CXCR3p_CCR6p_PD1n_7 | Count_back,par,fit3_lmer,NA,0.07626160739631783,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6p_7/CD4p_CD45RAn_CXCR3p_CCR6p_PD1p_7 | Count_back,par,fit1_lm,0.8316607261383466,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_CXCR3p_CCR6p_7/CD4p_CD45RAn_CXCR3p_CCR6p_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.053697065167864426,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.08708180859770553,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_PD1p_7 | Count_back,par,fit1_lm,0.7246791494744693,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.08351196839182755,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_TIM3n_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.07883338737959161,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_TIM3n_PD1p_7 | Count_back,par,fit1_lm,0.776622690864557,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_TIM3n_PD1p_7 | Count_back,logpar,fit3_lmer,NA,0.07310634134116856,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_TIM3p_PD1n_7 | Count_back,par,fit1_lmer,0.31150319827494555,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAn_7/CD4p_CD45RAn_TIM3p_PD1p_7 | Count_back,par,fit1_lmer,0.6109580687425403,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3n_CCR6n_7 | Count_back,par,fit3_lmer,NA,0.14980317226797443,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3n_CCR6p_7 | Count_back,par,fit2_lmer,0.0487830359086779,0.277156220777662,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3n_CCR6p_7 | Count_back,logpar,fit2_lmer,0.053453542265866065,0.5271945518243508,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3p_CCR6n_7 | Count_back,par,fit2_lmer,9.864791673403043e-4,0.6075479828793179,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3p_CCR6n_7 | Count_back,logpar,fit2_lmer,0.006507960238694279,0.21345147082576846,age
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3p_CCR6p_7 | Count_back,par,fit2_lmer,0.10381270046251238,0.4623138121325703,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_CXCR3p_CCR6p_7 | Count_back,logpar,fit2_lmer,0.013088736821305626,0.5947278135310283,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_PD1n_7 | Count_back,par,fit3_lmer,NA,0.11611180549532252,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.104812375663955,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_PD1p_7 | Count_back,par,fit1_lmer,0.07432074695254895,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_PD1p_7 | Count_back,logpar,fit2_lmer,0.07859047692729425,0.38274169217142073,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_TIM3n_PD1n_7 | Count_back,par,fit3_lmer,NA,0.12397976144286509,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_TIM3n_PD1n_7 | Count_back,logpar,fit3_lmer,NA,0.10005015434996067,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_TIM3n_PD1p_7 | Count_back,par,fit1_lmer,0.08875223094059263,NA,none
+Time_7/Cells_7/Singlets1_7/Singlets2_7/CD3p_CD4p_T_7/CD4p_CD45RAp_7/CD4p_CD45RAp_TIM3p_PD1n_7 | Count_back,par,fit1_lmer,0.6993180489161728,NA,none
+IP10_av_cyto_cyto,par,fit1_lmer,0.31107150728270033,NA,none
+IP10_av_cyto_cyto,logpar,fit1_lmer,0.11201350112828584,NA,none
+IL12p70_av_cyto_cyto,logpar,fit2_lmer,0.15370641947278574,0.6732236716846025,none
+IL10_av_cyto_cyto,logpar,fit3_lmer,NA,0.12805873127545098,none
+IFNg_av_cyto_cyto,logpar,fit3_lmer,NA,0.150035816764678,none
+IL2_Th_cyto_cyto,logpar,fit3_lmer,NA,0.1354348014182042,none
+IL6_Th_cyto_cyto,par,fit3_lmer,NA,0.07938052418540212,none
+IL10_Th_cyto_cyto,par,fit3_lmer,NA,0.08288979515852284,none
+IL17A_Th_cyto_cyto,par,fit1_lmer,0.963713276489208,NA,none
+IL17A_Th_cyto_cyto,logpar,fit1_lmer,0.9727673290894413,NA,none
+B_01/CD45_01 |freq,par,fit2_lm,0.03571008922930305,0.07037389080931163,none
+B_01/CD45_01 |freq,logpar,fit2_lm,0.06101076427095155,0.0561661746949086,none
+Memory_B_01/B_01 |freq,par,fit2_lmer,0.06949730462332941,0.7040953841467124,none
+Memory_B_01/B_01 |freq,logpar,fit2_lmer,0.02919457468298031,0.8929311084131525,none
+Niv_B_01/B_01 |freq,par,fit2_lmer,0.07025262570443444,0.697756172854211,none
+Niv_B_01/B_01 |freq,logpar,fit2_lmer,0.1108037369395135,0.6905579700083915,none
+Non_BT_01/CD45_01 |freq,par,fit3_lmer,NA,0.005286789762324615,sex
+Non_BT_01/CD45_01 |freq,logpar,fit3_lmer,NA,0.004224249635082393,sex
+NK_CD56bright_CD16pn/NK_01 |freq,par,fit2_lmer,0.078991507222144,0.5683506292573778,none
+NK_CD56bright_CD16pn/NK_01 |freq,logpar,fit2_lmer,0.1420053594754236,0.9738165762327209,none
+NK_CD56int_CD16p/NK_01 |freq,par,fit3_lmer,NA,0.05606422480075085,none
+NK_CD56int_CD16p/NK_01 |freq,logpar,fit3_lmer,NA,0.10742287632972879,none
+Classical_mono_01/Monocytes_01 |freq,par,fit1_lmer,0.4866550879423399,NA,none
+Classical_mono_01/Monocytes_01 |freq,logpar,fit1_lmer,0.5530398898204718,NA,none
+Patrolling_mono_01/Monocytes_01 |freq,logpar,fit1_lmer,0.2669718731096803,NA,none
+T_01/CD45_01 |freq,par,fit3_lmer,NA,0.014337035538191238,none
+T_01/CD45_01 |freq,logpar,fit3_lmer,NA,0.023683070494311786,none
+CD3p_CD56p_01/T_01 |freq,logpar,fit2_lmer,0.018741570394349354,0.6475840087585324,none
+CD4_01/T_01 |freq,par,fit2_lmer,0.007441108059395887,0.34837940147498625,age
+CD4_01/T_01 |freq,logpar,fit2_lmer,0.01569256733885568,0.3080356244680668,none
+CD4_CD45RAn_CD27n_01/CD4_01 |freq,par,fit2_lm,0.017407232980514633,0.07709697934874381,none
+CD4_CD45RAn_CD27n_01/CD4_01 |freq,logpar,fit2_lmer,0.025971947814536576,0.5549019446024774,none
+CD4_CD45RAn_CD27p_01/CD4_01 |freq,logpar,fit2_lmer,0.19223717323065362,0.6971903749442545,none
+CD4_CD45RAp_CD27n_01/CD4_01 |freq,par,fit2_lmer,0.14567080940068322,0.9126334710222874,none
+CD4_nonTreg_01/CD4_01 |freq,par,fit3_lmer,NA,0.001276347939122404,sex
+CD4_nonTreg_01/CD4_01 |freq,logpar,fit3_lmer,NA,0.0012137683829388918,sex
+CD4_CD25p_01/CD4_01 |freq,par,fit2_lmer,0.12616706262130628,0.244320594977395,none
+CD4_CD25p_01/CD4_01 |freq,logpar,fit3_lmer,NA,0.10216970453805001,none
+CD4_Treg_01/CD4_01 |freq,par,fit3_lmer,NA,0.0012138117462211948,sex
+CD4_Treg_01/CD4_01 |freq,logpar,fit3_lmer,NA,0.029746579620539112,none
+CD8_01/T_01 |freq,par,fit2_lmer,0.05211384904415079,0.5469178033881437,none
+CD8_01/T_01 |freq,logpar,fit2_lmer,0.0030422157092660725,0.5042311573470513,age
+CD8_CD45RAn_CD27n_01/CD8_01 |freq,par,fit3_lmer,NA,0.09496165679324732,none
+CD8_CD45RAp_CD27p_01/CD8_01 |freq,logpar,fit3_lmer,NA,0.12998647148205197,none
+CD45p_02/Live_02 |freq,logpar,fit1_lmer,0.29240447132026254,NA,none
+T_02/CD45p_02 |freq,par,fit2_lm,0.13845171252169577,0.08015998206607214,none
+CD4_02/T_02 |freq,par,fit2_lmer,0.012540764635185296,0.8476384382465192,none
+CD4_02/T_02 |freq,logpar,fit2_lmer,0.021093564243530587,0.7212475219130228,none
+CD4_CD45RAp_CCR7n_02/CD4_02 |freq,par,fit2_lmer,0.048346417631823006,0.8998360154447111,none
+CD4_CD45RAp_CCR7n_02/CD4_02 |freq,logpar,fit1_lmer,0.3085331716960151,NA,none
+CD4_CD45RAn_CCR7n_02/CD4_02 |freq,logpar,fit2_lmer,0.08076002411862726,0.4716506024737689,none
+CD4_CD45RAp_CD27n_02/CD4_02 |freq,par,fit2_lmer,0.014597132152907165,0.7095747117692488,none
+CD4_CD45RAp_CD27n_02/CD4_02 |freq,logpar,fit1_lmer,0.22739674520282163,NA,none
+CD4_CD45RAn_CD27n_02/CD4_02 |freq,logpar,fit2_lmer,0.1291665405190373,0.7350805316736633,none
+CD4_CD103p_02/CD4_02 |freq,par,fit1_lmer,0.11754176669483316,NA,none
+CD4_CD103p_02/CD4_02 |freq,logpar,fit1_lmer,0.2963407757209781,NA,none
+CD4_CCR4p_02/CD4_02 |freq,par,fit2_lm,0.005255309347458134,0.028514681558842563,age
+CD4_CCR4p_02/CD4_02 |freq,logpar,fit2_lm,0.007357032956206341,0.008937555783219064,age+sex
+CD4_Th2_02/CD4_02 |freq,par,fit2_lm,3.168431736341032e-7,0.027875167708977664,age
+CD4_Th2_02/CD4_02 |freq,logpar,fit2_lm,5.896182791290132e-6,0.005620635954861077,age+sex
+CD4_Th17_02/CD4_02 |freq,par,fit3_lmer,NA,0.07461987072844187,none
+CD4_Th17_02/CD4_02 |freq,logpar,fit3_lmer,NA,0.02603636646831962,none
+CD4_CD25p_02/CD4_02 |freq,par,fit2_lm,0.015527924317759996,0.14478435004353202,none
+CD4_CD25p_02/CD4_02 |freq,logpar,fit3_lmer,NA,0.12606079017561947,none
+CD4_Treg_02/CD4_02 |freq,par,fit3_lmer,NA,0.0015254773827883187,sex
+CD4_Treg_02/CD4_02 |freq,logpar,fit3_lmer,NA,0.03167199732323491,none
+CD8_02/T_02 |freq,par,fit2_lmer,0.06659270408889298,0.9284429435514967,none
+CD8_02/T_02 |freq,logpar,fit2_lmer,0.012125829824725464,0.8519970659002088,none
+CD8_Activated_02/CD8_02 |freq,par,fit1_lmer,0.5204301678014988,NA,none
+CD8_CD25p_02/CD8_02 |freq,par,fit2_lmer,0.027631444404395165,0.9566596884425875,none
+CD8_CD25p_02/CD8_02 |freq,logpar,fit2_lmer,0.20975096762943946,0.437943473134218,none
+CD8_CD45RAn_CCR7p_02/CD8_02 |freq,par,fit2_lmer,0.03370067542080128,0.7040115725389362,none
+CD8_CD45RAn_CCR7n_02/CD8_02 |freq,logpar,fit2_lmer,0.07864995742326486,0.7205334680122608,none
+CD8_CD103p_02/CD8_02 |freq,par,fit1_lm,0.016825807893815412,NA,none
+CD8_CD103p_02/CD8_02 |freq,logpar,fit3_lmer,NA,0.14331950353001077,none
+CD45p_03/Live_03 |freq,par,fit1_lmer,0.23066105200371373,NA,none
+CD45p_03/Live_03 |freq,logpar,fit1_lmer,0.2703638187168592,NA,none
+T_03/CD45p_03 |freq,par,fit2_lmer,0.04019726943863477,0.7232670931630258,none
+T_03/CD45p_03 |freq,logpar,fit2_lmer,0.0334721382619238,0.7091820808717708,none
+CD3p_gdn_03/T_03 |freq,par,fit1_lmer,0.039710169417808944,NA,none
+CD3p_gdn_03/T_03 |freq,logpar,fit1_lmer,0.043314793551612954,NA,none
+CD4_03/T_03 |freq,par,fit2_lmer,0.0016505162431855326,0.8934809191193233,age
+CD4_03/T_03 |freq,logpar,fit2_lmer,0.005603942666503676,0.7284307021679923,age
+CD4_CD45RAn_CCR7n_03/CD4_03 |freq,par,fit2_lmer,0.0791213022937216,0.7976006764442326,none
+CD4_CD45RAn_CCR7n_03/CD4_03 |freq,logpar,fit2_lmer,0.00916865428216319,0.6287020740371794,age
+CD4_CD45RAn_CD27n_03/CD4_03 |freq,par,fit2_lmer,0.060044687706647976,0.46078314310925605,none
+CD4_CD45RAn_CD27n_03/CD4_03 |freq,logpar,fit2_lmer,0.029176708099473803,0.9420947398166819,none
+CD4_NKG2Dp_03/CD4_03 |freq,par,fit3_lmer,NA,0.15479675648477192,none
+CD4_NKG2Dp_03/CD4_03 |freq,logpar,fit3_lmer,NA,0.11984009748744491,none
+CD4_PD1p_03/CD4_03 |freq,par,fit2_lm,0.17745209839192488,0.04767856358458249,none
+CD4_PD1p_03/CD4_03 |freq,logpar,fit1_lm,0.774213337778739,NA,none
+CD8_03/T_03 |freq,par,fit2_lmer,0.01093467757582816,0.49474578289836,none
+CD8_03/T_03 |freq,logpar,fit2_lmer,0.001284272852253559,0.5481728631054233,age
+CD8_CD45RAn_CCR7n_03/CD8_03 |freq,logpar,fit2_lmer,0.11169835061990863,0.8441201113919112,none
+CD8_CD45RAn_CCR7p_03/CD8_03 |freq,par,fit2_lmer,0.058358053603257305,0.38843892189897145,none
+CD8_CD45RAn_CD27n_03/CD8_03 |freq,par,fit2_lmer,0.14489169254306555,0.3402723534750156,none
+CD8_CD45RAn_CD27n_03/CD8_03 |freq,logpar,fit2_lmer,0.12769207287617737,0.27754027344700055,none
+CD8_CD45RAp_CD27p_03/CD8_03 |freq,par,fit3_lmer,NA,0.13179969839664474,none
+CD8_CD45RAp_CD27p_03/CD8_03 |freq,logpar,fit3_lmer,NA,0.14502275431984857,none
+CD8_CD103p_03/CD8_03 |freq,par,fit2_lmer,0.2748796081403674,0.29563791030454595,none
+CD8_CD103p_03/CD8_03 |freq,logpar,fit3_lmer,NA,0.10493237680097087,none
+CD8_NKG2Dp_03/CD8_03 |freq,par,fit3_lmer,NA,0.11321060631057875,none
+CD8_NKG2Dp_03/CD8_03 |freq,logpar,fit3_lmer,NA,0.14301749125991625,none
+CD8_PD1p_03/CD8_03 |freq,logpar,fit3_lmer,NA,0.13391282146287256,none
+gd_03/T_03 |freq,par,fit1_lmer,0.039441490463938605,NA,none
+Vd1_CD45RAn_CCR7p_03/gd_Vd1_03 |freq,par,fit3_lmer,NA,0.025711173346771327,none
+Vd1_CD45RAn_CCR7p_03/gd_Vd1_03 |freq,logpar,fit3_lmer,NA,0.02407446126262722,none
+Vd1_CD45RAn_CD27p_03/gd_Vd1_03 |freq,par,fit3_lmer,NA,0.1272155861383909,none
+Vd1_CD103p_03/gd_Vd1_03 |freq,par,fit3_lmer,NA,0.10565088297989761,none
+Vd1_CD103p_03/gd_Vd1_03 |freq,logpar,fit1_lmer,0.15794318649014083,NA,none
+Vd1_PD1p_03/gd_Vd1_03 |freq,par,fit1_lmer,0.2504481635178901,NA,none
+Vd1_PD1p_03/gd_Vd1_03 |freq,logpar,fit1_lmer,0.18079306014734411,NA,none
+gd_Vd2_03/T_03 |freq,par,fit1_lmer,0.04721620361597445,NA,none
+gd_Vd2_03/T_03 |freq,logpar,fit1_lmer,0.02053734939894611,NA,none
+Vd2_CD45RAn_CCR7n_03/gd_Vd2_03 |freq,par,fit3_lmer,NA,0.029431475677382513,none
+Vd2_CD45RAn_CCR7n_03/gd_Vd2_03 |freq,logpar,fit3_lmer,NA,0.11805242905130203,none
+Vd2_CD45RAn_CCR7p_03/gd_Vd2_03 |freq,logpar,fit1_lmer,0.6003334635306956,NA,none
+Vd2_CD45RAn_CD27n_03/gd_Vd2_03 |freq,par,fit3_lmer,NA,0.07575525601422382,none
+Vd2_CD45RAn_CD27n_03/gd_Vd2_03 |freq,logpar,fit3_lmer,NA,0.04960419166238475,none
+Vd2_CD45RAp_CCR7p_03/gd_Vd2_03 |freq,par,fit3_lmer,NA,0.05756799087772269,none
+Vd2_CD45RAp_CCR7p_03/gd_Vd2_03 |freq,logpar,fit1_lm,0.22928769162714527,NA,none
+Vd2_CD45RAp_CD27p_03/gd_Vd2_03 |freq,par,fit3_lmer,NA,0.08936848360458752,none
+Vd2_CD45RAp_CD27p_03/gd_Vd2_03 |freq,logpar,fit3_lmer,NA,0.09029071399273611,none
+Vd2_CD103p_03/gd_Vd2_03 |freq,par,fit3_lmer,NA,0.07661549372880808,none
+Vd2_CD103p_03/gd_Vd2_03 |freq,logpar,fit1_lm,0.3261005598425212,NA,none
+Vd2_NKG2Dp_03/gd_Vd2_03 |freq,par,fit1_lmer,0.19762728707562108,NA,none
+Vd2_NKG2Dp_03/gd_Vd2_03 |freq,logpar,fit1_lmer,0.18640178845388355,NA,none
+Vdx_CD45RAp_CCR7n_03/gd_Vdx_03 |freq,par,fit2_lmer,0.09085092817706217,0.3377443976361679,none
+Vdx_CD45RAp_CCR7p_03/gd_Vdx_03 |freq,logpar,fit1_lmer,0.08618473826759138,NA,none
+Vdx_CD103p_03/gd_Vdx_03 |freq,par,fit1_lmer,0.56837313802313,NA,none
+Vdx_CD103p_03/gd_Vdx_03 |freq,logpar,fit1_lmer,0.14424156892628984,NA,none
+Vdx_NKG2Dp_03/gd_Vdx_03 |freq,par,fit1_lmer,0.2406931826402137,NA,none
+Vdx_PD1p_03/gd_Vdx_03 |freq,par,fit1_lmer,0.7436276669183675,NA,none
+Vdx_PD1p_03/gd_Vdx_03 |freq,logpar,fit1_lmer,0.8719164656863334,NA,none
+B_4/Live_4 |freq,par,fit2_lmer,0.0559866856300889,0.18639857173276414,none
+B_4/Live_4 |freq,logpar,fit2_lm,0.04548387618923108,0.06721228015161339,none
+CD19p_CD5p_4/B_4 |freq,logpar,fit3_lmer,NA,0.14545580666447555,none
+CD19p_IgMn_CD27n_IgGp_4/B_4 |freq,par,fit2_lmer,0.027561429871547596,0.25816857974275836,none
+CD19p_IgMn_CD27n_IgGp_4/B_4 |freq,logpar,fit2_lmer,0.0019968754162191845,0.3102997788709636,age
+CD19p_IgMn_CD27p_IgGn_4/B_4 |freq,logpar,fit2_lmer,0.041269251875506355,0.8321830431315679,none
+CD19p_IgMn_CD27p_IgGp_4/B_4 |freq,par,fit2_lm,0.24976038991920044,0.019669689575666623,none
+CD19p_IgMn_CD27p_IgGp_4/B_4 |freq,logpar,fit2_lmer,5.861003095959226e-4,0.3453317980963527,age
+IgMp_CD27n_4/B_4 |freq,par,fit2_lmer,0.052889723868392344,0.3270849656695486,none
+IgMp_CD27n_4/B_4 |freq,logpar,fit2_lmer,0.08338688139511417,0.35706669615605313,none
+CD27p_IgMp_IgDn_4/B_4 |freq,par,fit1_lmer,0.9848208099596536,NA,none
+Plasmablast_4/B_4 |freq,par,fit1_lmer,0.20668458480978508,NA,none
+Plasmablast_4/B_4 |freq,logpar,fit1_lmer,0.04202769812371029,NA,none
+Transitional_4/B_4 |freq,par,fit2_lmer,0.12986443648156182,0.441529991727883,none
+T2_4/Transitional_4 |freq,par,fit2_lmer,0.11356064880345423,0.3246518943717732,none
+T2_4/Transitional_4 |freq,logpar,fit2_lmer,0.04176895612853272,0.8382578768508011,none
+Lymphocytes_06/CD45p_06 |freq,par,fit2_lmer,0.11720295333398388,0.36640603323806464,none
+Lymphocytes_06/CD45p_06 |freq,logpar,fit1_lmer,0.18009051079810348,NA,none
+B_06/Lymphocytes_06 |freq,par,fit2_lmer,0.10015449746053778,0.8247318403212388,none
+B_06/Lymphocytes_06 |freq,logpar,fit2_lmer,0.07393507326890271,0.9726322215819287,none
+NKT_06/Lymphocytes_06 |freq,par,fit3_lmer,NA,0.053471014695170745,none
+NKT_06/Lymphocytes_06 |freq,logpar,fit2_lm,0.09537670663635954,0.019138885242636967,none
+NK_06/Lymphocytes_06 |freq,par,fit3_lmer,NA,0.026391588135659415,none
+NK_06/Lymphocytes_06 |freq,logpar,fit3_lmer,NA,0.027993393196040984,none
+CD3p_CD4n_T_7/Singlets2_7 |freq,par,fit2_lmer,0.04079825381240444,0.40096715036251784,none
+CD3p_CD4n_T_7/Singlets2_7 |freq,logpar,fit2_lmer,0.02917845095066204,0.18590539861735003,none
+CD3p_CD4n_PD1n_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.0470601729632398,NA,none
+CD3p_CD4n_PD1n_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.03188507293852437,NA,none
+CD3p_CD4n_PD1p_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.04706017295343866,NA,none
+CD3p_CD4n_PD1p_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.06658469831716428,NA,none
+CD3p_CD4n_TIM3n_PD1n_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.08264576448349634,NA,none
+CD3p_CD4n_TIM3n_PD1n_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.04793164531900291,NA,none
+CD3p_CD4n_TIM3n_PD1p_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.053119278430835574,NA,none
+CD3p_CD4n_TIM3n_PD1p_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.07011063559496775,NA,none
+CD3p_CD4n_TIM3p_PD1n_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.025200648585767798,NA,none
+CD3p_CD4n_TIM3p_PD1n_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.02806106999272268,NA,none
+CD3p_CD4n_TIM3p_PD1p_7/CD3p_CD4n_T_7 |freq,par,fit1_lmer,0.34737768472983455,NA,none
+CD3p_CD4n_TIM3p_PD1p_7/CD3p_CD4n_T_7 |freq,logpar,fit1_lmer,0.2645817258804643,NA,none
+CD4n_CD45RAn_CXCR3p_CCR6n_7/CD4n_CD45RAn_7 |freq,par,fit2_lmer,0.11027065078678012,0.5657456154127527,none
+CD4n_CD45RAn_CXCR3p_CCR6p_7/CD4n_CD45RAn_7 |freq,logpar,fit1_lmer,0.06407875526738645,NA,none
+CD4n_CD45RAn_PD1n_7/CD4n_CD45RAn_7 |freq,par,fit3_lmer,NA,0.05879754488059092,none
+CD4n_CD45RAn_PD1n_7/CD4n_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.08419231161852603,none
+CD4n_CD45RAn_PD1p_7/CD4n_CD45RAn_7 |freq,par,fit3_lmer,NA,0.058797544883975136,none
+CD4n_CD45RAn_PD1p_7/CD4n_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.056559145246165156,none
+CD4n_CD45RAn_TIM3n_PD1n_7/CD4n_CD45RAn_7 |freq,par,fit3_lmer,NA,0.09141159805712874,none
+CD4n_CD45RAn_TIM3n_PD1n_7/CD4n_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.07431655269285438,none
+CD4n_CD45RAn_TIM3n_PD1p_7/CD4n_CD45RAn_7 |freq,par,fit3_lmer,NA,0.09024609623202677,none
+CD4n_CD45RAn_TIM3n_PD1p_7/CD4n_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.10615094408930906,none
+CD4n_CD45RAn_TIM3p_PD1n_7/CD4n_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.10215273858938943,none
+CD4n_CD45RAp_CXCR3n_CCR6n_7/CD4n_CD45RAp_7 |freq,par,fit2_lmer,0.19452921038082024,0.5065902214803566,none
+CD4n_CD45RAp_CXCR3n_CCR6n_7/CD4n_CD45RAp_7 |freq,logpar,fit2_lmer,0.10028505881996283,0.682929846217231,none
+CD4n_CD45RAp_CXCR3p_CCR6p_7/CD4n_CD45RAp_7 |freq,par,fit2_lmer,0.18753105036616505,0.4354253814929314,none
+CD4n_CD45RAp_PD1n_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.08777290225000729,NA,none
+CD4n_CD45RAp_PD1n_7/CD4n_CD45RAp_7 |freq,logpar,fit1_lmer,0.07795675383061658,NA,none
+CD4n_CD45RAp_PD1p_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.08777290226791261,NA,none
+CD4n_CD45RAp_PD1p_7/CD4n_CD45RAp_7 |freq,logpar,fit1_lmer,0.15568333836740642,NA,none
+CD4n_CD45RAp_TIM3n_PD1n_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.2533589381702949,NA,none
+CD4n_CD45RAp_TIM3n_PD1p_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.166617777537136,NA,none
+CD4n_CD45RAp_TIM3n_PD1p_7/CD4n_CD45RAp_7 |freq,logpar,fit1_lmer,0.19696490836052405,NA,none
+CD4n_CD45RAp_TIM3p_PD1n_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.07078493917571463,NA,none
+CD4n_CD45RAp_TIM3p_PD1n_7/CD4n_CD45RAp_7 |freq,logpar,fit1_lmer,0.1346774853231698,NA,none
+CD4n_CD45RAp_TIM3p_PD1p_7/CD4n_CD45RAp_7 |freq,par,fit1_lmer,0.23244467256701265,NA,none
+CD4n_CD45RAp_TIM3p_PD1p_7/CD4n_CD45RAp_7 |freq,logpar,fit1_lmer,0.1673590545138184,NA,none
+CD4p_CD45RAn_CXCR3n_CCR6n_PD1n_7/CD4p_CD45RAn_CXCR3n_CCR6n_7 |freq,par,fit2_lmer,0.006812597379334382,0.6010549833672807,age
+CD4p_CD45RAn_CXCR3n_CCR6n_PD1n_7/CD4p_CD45RAn_CXCR3n_CCR6n_7 |freq,logpar,fit2_lmer,0.009515694435148925,0.4938207630992708,age
+CD4p_CD45RAn_CXCR3n_CCR6n_PD1p_7/CD4p_CD45RAn_7 |freq,par,fit1_lm,0.02538587914361107,NA,none
+CD4p_CD45RAn_CXCR3n_CCR6n_PD1p_7/CD4p_CD45RAn_7 |freq,logpar,fit1_lm,0.05504617505830331,NA,none
+CD4p_CD45RAn_CXCR3n_CCR6p_PD1n_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 |freq,par,fit2_lm,0.00535362507574433,0.05131782595081977,age
+CD4p_CD45RAn_CXCR3n_CCR6p_PD1n_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 |freq,logpar,fit2_lm,0.009158857749748325,0.04455626012294195,age
+CD4p_CD45RAn_CXCR3n_CCR6p_PD1p_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 |freq,par,fit2_lm,0.005353625075744336,0.05131782595081977,age
+CD4p_CD45RAn_CXCR3n_CCR6p_PD1p_7/CD4p_CD45RAn_CXCR3n_CCR6p_7 |freq,logpar,fit2_lm,0.004262700306876427,0.05851729651696496,age
+CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_7 |freq,par,fit3_lmer,NA,0.02943481642035696,none
+CD4p_CD45RAn_CXCR3p_CCR6n_7/CD4p_CD45RAn_7 |freq,logpar,fit3_lmer,NA,0.02720384878815713,none
+CD4p_CD45RAn_CXCR3p_CCR6n_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit2_lm,0.06889124416477894,0.18947500847633464,none
+CD4p_CD45RAn_CXCR3p_CCR6n_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,logpar,fit2_lm,0.0631142553888442,0.13970606816998096,none
+CD4p_CD45RAn_CXCR3p_CCR6n_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit2_lm,0.0688912441647793,0.18947500847633428,none
+CD4p_CD45RAn_CXCR3p_CCR6n_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,logpar,fit2_lm,0.06954155450729321,0.2090187273599407,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit2_lm,0.07697332497336706,0.17055580786427946,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,logpar,fit2_lm,0.07362546536214855,0.1142606768896897,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit2_lmer,0.07531745228475667,0.6200605991175214,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3n_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,logpar,fit2_lmer,0.07214398971846689,0.6233423710665239,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit1_lmer,0.8510897146460019,NA,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,par,fit1_lm,0.620057260524227,NA,none
+CD4p_CD45RAn_CXCR3p_CCR6n_TIM3p_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6n_7 |freq,logpar,fit3_lmer,NA,0.023161443318084916,none
+CD4p_CD45RAn_CXCR3p_CCR6p_7/CD4p_CD45RAn_7 |freq,logpar,fit1_lmer,0.0153077366397948,NA,none
+CD4p_CD45RAn_CXCR3p_CCR6p_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 |freq,par,fit2_lm,0.4844726499657255,0.12143697093014191,none
+CD4p_CD45RAn_CXCR3p_CCR6p_PD1n_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 |freq,logpar,fit2_lmer,0.06665484273770976,0.20318562226184833,none
+CD4p_CD45RAn_CXCR3p_CCR6p_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 |freq,par,fit2_lm,0.4844726499657267,0.12143697093014169,none
+CD4p_CD45RAn_CXCR3p_CCR6p_PD1p_7/CD4p_CD45RAn_CXCR3p_CCR6p_7 |freq,logpar,fit2_lm,0.5174956821645085,0.09626035976057903,none
+CD4p_CD45RAn_PD1n_7/CD4p_CD45RAn_7 |freq,par,fit2_lmer,0.008364844865341949,0.18448558196091708,age
+CD4p_CD45RAn_PD1n_7/CD4p_CD45RAn_7 |freq,logpar,fit2_lm,0.05187041667420282,0.19018106215801336,none
+CD4p_CD45RAn_PD1p_7/CD4p_CD45RAn_7 |freq,par,fit2_lmer,0.00836484488083,0.18448558196682652,age
+CD4p_CD45RAn_PD1p_7/CD4p_CD45RAn_7 |freq,logpar,fit2_lmer,0.006947220222817966,0.2143594013817273,age
+CD4p_CD45RAn_TIM3n_PD1n_7/CD4p_CD45RAn_7 |freq,par,fit2_lm,0.047682804811096505,0.22500742322159337,none
+CD4p_CD45RAn_TIM3n_PD1n_7/CD4p_CD45RAn_7 |freq,logpar,fit2_lm,0.08659841858681604,0.14444470037888815,none
+CD4p_CD45RAn_TIM3n_PD1p_7/CD4p_CD45RAn_7 |freq,par,fit2_lmer,0.011997625720331364,0.43783857455864306,none
+CD4p_CD45RAn_TIM3n_PD1p_7/CD4p_CD45RAn_7 |freq,logpar,fit2_lmer,0.008888190955708595,0.5057207659385088,age
+CD4p_CD45RAn_TIM3p_PD1n_7/CD4p_CD45RAn_7 |freq,par,fit1_lmer,0.5947759703534006,NA,none
+CD4p_CD45RAn_TIM3p_PD1n_7/CD4p_CD45RAn_7 |freq,logpar,fit2_lmer,0.15586943799996414,0.737105652277942,none
+CD4p_CD45RAn_TIM3p_PD1p_7/CD4p_CD45RAn_7 |freq,par,fit1_lm,0.98077771045303,NA,none
+CD4p_CD45RAp_CXCR3n_CCR6n_7/CD4p_CD45RAp_7 |freq,par,fit2_lmer,1.353341114007217e-4,0.9053560658144991,age
+CD4p_CD45RAp_CXCR3n_CCR6n_7/CD4p_CD45RAp_7 |freq,logpar,fit2_lmer,2.0182429887489155e-4,0.8851653729937836,age
+CD4p_CD45RAp_CXCR3n_CCR6p_7/CD4p_CD45RAp_7 |freq,par,fit2_lm,0.043295957146154654,0.1497242818129956,none
+CD4p_CD45RAp_CXCR3n_CCR6p_7/CD4p_CD45RAp_7 |freq,logpar,fit2_lmer,0.06151045130395319,0.7770253446668909,none
+CD4p_CD45RAp_CXCR3p_CCR6n_7/CD4p_CD45RAp_7 |freq,par,fit2_lmer,6.26650290628923e-5,0.48182775632237684,age
+CD4p_CD45RAp_CXCR3p_CCR6n_7/CD4p_CD45RAp_7 |freq,logpar,fit2_lmer,9.173786510049698e-4,0.9662789319091977,age
+CD4p_CD45RAp_CXCR3p_CCR6p_7/CD4p_CD45RAp_7 |freq,par,fit2_lmer,0.10707638237476247,0.43779794813497896,none
+CD4p_CD45RAp_CXCR3p_CCR6p_7/CD4p_CD45RAp_7 |freq,logpar,fit2_lmer,0.04743419890184355,0.3402612909761913,none
+CD4p_CD45RAp_PD1n_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.12040751433293402,NA,none
+CD4p_CD45RAp_PD1p_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.12040751439077739,NA,none
+CD4p_CD45RAp_PD1p_7/CD4p_CD45RAp_7 |freq,logpar,fit1_lmer,0.09023095471696513,NA,none
+CD4p_CD45RAp_TIM3n_PD1n_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.14574566512558987,NA,none
+CD4p_CD45RAp_TIM3n_PD1n_7/CD4p_CD45RAp_7 |freq,logpar,fit2_lmer,0.18023631038560217,0.5460388779846483,none
+CD4p_CD45RAp_TIM3n_PD1p_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.13817882739219772,NA,none
+CD4p_CD45RAp_TIM3n_PD1p_7/CD4p_CD45RAp_7 |freq,logpar,fit1_lmer,0.07267439406075035,NA,none
+CD4p_CD45RAp_TIM3p_PD1n_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.239169978056071,NA,none
+CD4p_CD45RAp_TIM3p_PD1n_7/CD4p_CD45RAp_7 |freq,logpar,fit1_lmer,0.372628558469851,NA,none
+CD4p_CD45RAp_TIM3p_PD1p_7/CD4p_CD45RAp_7 |freq,par,fit1_lmer,0.46172805136798933,NA,none
+CD4p_CD45RAp_TIM3p_PD1p_7/CD4p_CD45RAp_7 |freq,logpar,fit1_lmer,0.7741322362509293,NA,none
+Non_PMN_08/Live_08 |freq,par,fit1_lm,0.3337856994723609,NA,none
+B_cells_CD86p_08/B_Cells_08 |freq,par,fit1_lm,0.11365487816943118,NA,none
+B_cells_CD86p_08/B_Cells_08 |freq,logpar,fit1_lm,0.1673384972679567,NA,none
+Non-BT_08/Live_08 |freq,par,fit3_lmer,NA,0.019844604537075507,none
+Non-BT_08/Live_08 |freq,logpar,fit3_lmer,NA,0.016537810556836466,none
+HLADRn_CD14n_08/Live_08 |freq,par,fit3_lmer,NA,0.042591636242308085,none
+HLADRn_CD14n_08/Live_08 |freq,logpar,fit3_lmer,NA,0.015947432277347857,none
+Monocytes_08/Live_08 |freq,par,fit3_lmer,NA,0.023157510580265724,none
+Monocytes_08/Live_08 |freq,logpar,fit3_lmer,NA,0.02819385740953534,none
+Intermediate_monocytes_08/Monocytes_08 |freq,par,fit1_lmer,0.20232384610396453,NA,none
+Intermediate_monocytes_08/Monocytes_08 |freq,logpar,fit1_lmer,0.2853007123167158,NA,none
+Non-monocytes_08/Live_08 |freq,par,fit3_lmer,NA,0.04829456183501366,none
+Non-monocytes_08/Live_08 |freq,logpar,fit3_lmer,NA,0.019404473705617094,none
+HLADRp_08/Non-monocytes_08 |freq,par,fit2_lm,0.09895790000604061,0.006062454264960553,sex
+HLADRp_08/Non-monocytes_08 |freq,logpar,fit2_lm,0.07239474077185584,0.006528650717409078,sex
+HLADRp_CD16n_08/Non-monocytes_08 |freq,par,fit2_lm,0.04196906141128232,0.01533378628535903,none
+HLADRp_CD16n_08/Non-monocytes_08 |freq,logpar,fit2_lm,0.05167973380756751,0.017318735871806754,none
+mDC_08/Non_pDC_08 |freq,par,fit1_lmer,0.31686270951813106,NA,none
+mDC_08/Non_pDC_08 |freq,logpar,fit1_lmer,0.2975949276771493,NA,none
+mDC1_08/mDC_08 |freq,logpar,fit1_lmer,0.06731081611367534,NA,none
+mDC1_CD86p_08/mDC1_08 |freq,par,fit2_lmer,0.07070622015345962,0.5256023104272289,none
+mDC1_CD86p_08/mDC1_08 |freq,logpar,fit2_lmer,0.07586950196161393,0.5480426130475423,none
+mDC2_08/mDC_08 |freq,logpar,fit2_lmer,0.07740488320597669,0.7095809037265834,none
+mDC2_CD86p_08/mDC2_08 |freq,par,fit1_lmer,0.05597941125753425,NA,none
+mDC_CD86p_08/mDC_08 |freq,par,fit1_lmer,0.016171949577205382,NA,none
+mDC_CD86p_08/mDC_08 |freq,logpar,fit1_lmer,0.015358066700584237,NA,none
+pDC_08/HLADRp_CD16n_08 |freq,par,fit1_lmer,0.01200675491323159,NA,none
+pDC_CD86p_08/pDC_08 |freq,logpar,fit1_lmer,0.6112302201201023,NA,none
+T-Cells_08/Live_08 |freq,par,fit1_lmer,0.10276403180132451,NA,none
+PMN_08/Live_08 |freq,par,fit1_lm,0.3240178734446051,NA,none
+PMN_08/Live_08 |freq,logpar,fit1_lm,0.28332337354230125,NA,none
+Eosinophils_08/Live_08 |freq,logpar,fit3_lmer,NA,0.13243704488729532,none
+Neutrophils_08/Live_08 |freq,par,fit1_lm,0.35484758398236527,NA,none
+Neutrophils_08/Live_08 |freq,logpar,fit1_lm,0.31992288206298375,NA,none
+ab_5/Live_cells_5 |freq,logpar,fit1_lmer,0.6551073243715698,NA,none
+CD4p_5/ab_5 |freq,par,fit1_lmer,0.04104391028829564,NA,none
+CD4p_5/ab_5 |freq,logpar,fit1_lmer,0.124091823149495,NA,none
+CD8p_5/ab_5 |freq,logpar,fit2_lmer,0.011940264006052944,0.2694246280914991,none
+Foxp3p_5/ab_5 |freq,par,fit1_lm,0.824664356488392,NA,none
+Foxp3p_5/ab_5 |freq,logpar,fit1_lmer,0.447526306811193,NA,none
+gd_5/Live_cells_5 |freq,par,fit2_lmer,0.020393872297186647,0.8494504073824746,none
+gd_5/Live_cells_5 |freq,logpar,fit1_lmer,0.0164850112414072,NA,none
+CD4_CD45RAn_CCR7n_5/CD4p_5 |freq,par,fit2_lmer,0.1360466995376934,0.6432160330362278,none
+CD4_CD45RAn_CCR7n_5/CD4p_5 |freq,logpar,fit2_lmer,0.0233920352998785,0.3340590345122473,none
+CD4_CD45RAn_CCR7p_5/CD4p_5 |freq,logpar,fit1_lmer,0.6808037215786858,NA,none
+CD4_CD45RAp_CCR7n_5/CD4p_5 |freq,par,fit1_lmer,0.23267094799287794,NA,none
+CD4_CD45RAp_CCR7p_5/CD4p_5 |freq,logpar,fit1_lmer,0.9219991947449055,NA,none
+CD8_CD45RAn_CCR7n_5/CD8p_5 |freq,logpar,fit2_lmer,0.04190689106203967,0.269081048098955,none
+CD8_CD45RAn_CCR7p_5/CD8p_5 |freq,par,fit2_lmer,0.006057606524627044,0.7426498805389287,age
+CD8_CD45RAn_CCR7p_5/CD8p_5 |freq,logpar,fit1_lmer,0.3062532380275978,NA,none
+CD8_CD45RAp_CCR7n_5/CD8p_5 |freq,par,fit1_lmer,0.17010152373964502,NA,none
+CD8_CD45RAp_CCR7p_5/CD8p_5 |freq,par,fit1_lmer,0.3413471405307379,NA,none
+CD8_CD45RAp_CCR7p_5/CD8p_5 |freq,logpar,fit1_lmer,0.3590744205081836,NA,none
+G0_5/CD4_CD45RAn_CCR7n_5 |freq,par,fit1_lmer,0.03381086555279379,NA,none
+G0_5/CD4_CD45RAn_CCR7n_5 |freq,logpar,fit1_lmer,0.03505397494540803,NA,none
+G1_5/CD4_CD45RAn_CCR7n_5 |freq,par,fit1_lmer,0.03748556988182873,NA,none
+S_G2_M_5/CD4_CD45RAn_CCR7n_5 |freq,par,fit1_lmer,0.04323157389663388,NA,none
+S_G2_M_5/CD4_CD45RAn_CCR7n_5 |freq,logpar,fit1_lmer,0.28570877126955885,NA,none
+G0_5/CD4_CD45RAn_CCR7p_5 |freq,par,fit1_lmer,0.5800859852383647,NA,none
+G0_5/CD4_CD45RAn_CCR7p_5 |freq,logpar,fit1_lmer,0.5777223065826409,NA,none
+G1_5/CD4_CD45RAn_CCR7p_5 |freq,par,fit1_lmer,0.565261386016217,NA,none
+S_G2_M_5/CD4_CD45RAn_CCR7p_5 |freq,logpar,fit1_lmer,0.5055401832706719,NA,none
+G1_5/CD4_CD45RAp_CCR7n_5 |freq,par,fit1_lmer,0.0041306241272438295,NA,age
+G1_5/CD4_CD45RAp_CCR7n_5 |freq,logpar,fit3_lmer,NA,0.14472794433531946,none
+S_G2_M_5/CD4_CD45RAp_CCR7n_5 |freq,par,fit1_lmer,0.9200649236465381,NA,none
+S_G2_M_5/CD4_CD45RAp_CCR7n_5 |freq,logpar,fit1_lmer,0.9939955694459146,NA,none
+G0_5/CD4_CD45RAp_CCR7p_5 |freq,par,fit1_lmer,0.4502981649325978,NA,none
+G0_5/CD4_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.4516465111342334,NA,none
+G1_5/CD4_CD45RAp_CCR7p_5 |freq,par,fit1_lmer,0.6110693136090051,NA,none
+G1_5/CD4_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.41347137364032893,NA,none
+S_G2_M_5/CD4_CD45RAp_CCR7p_5 |freq,par,fit1_lmer,0.7058619580921148,NA,none
+S_G2_M_5/CD4_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.8872021824965541,NA,none
+G0_5/CD8_CD45RAn_CCR7n_5 |freq,par,fit1_lmer,0.10932710404083287,NA,none
+G0_5/CD8_CD45RAn_CCR7n_5 |freq,logpar,fit1_lmer,0.11547954182419355,NA,none
+G1_5/CD8_CD45RAn_CCR7n_5 |freq,par,fit1_lmer,0.09934170282000458,NA,none
+S_G2_M_5/CD8_CD45RAn_CCR7n_5 |freq,logpar,fit1_lmer,0.13942054004356802,NA,none
+G0_5/CD8_CD45RAn_CCR7p_5 |freq,par,fit1_lmer,0.4352228840819441,NA,none
+G0_5/CD8_CD45RAn_CCR7p_5 |freq,logpar,fit1_lmer,0.43635399774144945,NA,none
+G1_5/CD8_CD45RAn_CCR7p_5 |freq,par,fit1_lmer,0.457675686831047,NA,none
+G1_5/CD8_CD45RAn_CCR7p_5 |freq,logpar,fit1_lmer,0.3351224156185719,NA,none
+S_G2_M_5/CD8_CD45RAn_CCR7p_5 |freq,par,fit1_lmer,0.09063306481069502,NA,none
+S_G2_M_5/CD8_CD45RAp_CCR7n_5 |freq,par,fit1_lmer,0.46812009137168087,NA,none
+S_G2_M_5/CD8_CD45RAp_CCR7n_5 |freq,logpar,fit1_lmer,0.33585781886882415,NA,none
+G0_5/CD8_CD45RAp_CCR7p_5 |freq,par,fit1_lmer,0.3340898404426592,NA,none
+G0_5/CD8_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.33665368750548397,NA,none
+G1_5/CD8_CD45RAp_CCR7p_5 |freq,par,fit1_lm,0.3187692912454606,NA,none
+G1_5/CD8_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.07713455109959565,NA,none
+S_G2_M_5/CD8_CD45RAp_CCR7p_5 |freq,par,fit1_lmer,0.06563352645526911,NA,none
+S_G2_M_5/CD8_CD45RAp_CCR7p_5 |freq,logpar,fit1_lmer,0.029110558677033105,NA,none
+G0_5/Foxp3p_5 |freq,par,fit1_lmer,0.2329907476355609,NA,none
+G0_5/Foxp3p_5 |freq,logpar,fit1_lmer,0.22897988673404554,NA,none
+G1_5/Foxp3p_5 |freq,par,fit1_lmer,0.25991798844848224,NA,none
+G1_5/Foxp3p_5 |freq,logpar,fit1_lm,0.30664721034528963,NA,none
+S_G2_M_5/Foxp3p_5 |freq,par,fit1_lmer,0.46050685490036725,NA,none
+S_G2_M_5/Foxp3p_5 |freq,logpar,fit1_lmer,0.5557755764790882,NA,none
+S_G2_M_5/gd_5 |freq,par,fit2_lmer,0.16849038376322237,0.1791796686546793,none
+S_G2_M_5/gd_5 |freq,logpar,fit3_lmer,NA,0.02977979888459617,none
+CD4_02/CD8_02 | Ratio,par,fit1_lmer,7.382217711398735e-4,NA,age
+CD4_02/CD8_02 | Ratio,logpar,fit2_lmer,0.011451849021657122,0.9846583963568161,none
+CD4_03/CD8_03 | Ratio,par,fit2_lmer,5.590802409380846e-5,0.7977311006734332,age
+CD4_03/CD8_03 | Ratio,logpar,fit2_lmer,0.0011834681100773075,0.8597601136426374,age
+Vd2_02/Vd1_02 | Ratio,par,fit1_lmer,0.3001022605015098,NA,none
+Neut_06/T_cell_06 | Ratio,logpar,fit1_lmer,0.4721592765581404,NA,none
+Th1_02/Th2_02 | Ratio,par,fit1_lm,0.006280749548814021,NA,age
+gd_Vd1_03/T_03 | freq,par,fit3_lmer,NA,0.11017277000052911,none
+gd_Vd2_03/T_03 | freq,par,fit1_lmer,0.04721620361597445,NA,none
+gd_Vd2_03/T_03 | freq,logpar,fit1_lmer,0.02053734939894611,NA,none
+gd_Vdx_03/gd_03 | freq,logpar,fit2_lmer,0.10393986860601662,0.9059465090782225,none
+Th17.1_02/Th17_02 | Ratio,par,fit3_lmer,NA,0.12897041043223612,none
+CD4_CXCR3p_02/CD4_CCR4p_02 | Ratio,logpar,fit2_lmer,0.18384966841625536,0.8657228792143116,none
+CD86p_mDC_08/CD86n_mDC_08 | Ratio,par,fit1_lmer,0.014705899117291693,NA,none
+CD86p_mDC_08/CD86n_mDC_08 | Ratio,logpar,fit1_lmer,0.01604116410849906,NA,none
+CD86p_mDC1_08/CD86n_mDC1_08 | Ratio,par,fit2_lmer,0.0755942653073746,0.5466817796974157,none
+CD86p_mDC1_08/CD86n_mDC1_08 | Ratio,logpar,fit2_lmer,0.07855742465915048,0.5592565539481834,none
+RBD_IgG_LIPS_sero,logpar,fit3_lmer,NA,0.16673005416907086,none
+NC_IgG_LIPS_sero,par,fit3_lmer,NA,0.15164120760453967,none
+Spike_IgG_Norm_sero,logpar,fit3_lmer,NA,0.05868536885347846,none
+RBD_IgG_Norm_sero,par,fit3_lmer,NA,0.07685890190187114,none
+N_IgG_Norm_sero,logpar,fit3_lmer,NA,0.052419451748652326,none
+RBD_IgM_Norm_sero,par,fit3_lmer,NA,0.08819878207432542,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
+N_IgM_Norm_sero,par,fit2_lmer,0.025014565007131218,0.4144124970799514,none
+N_IgM_Norm_sero,logpar,fit1_lmer,0.053280163135877634,NA,none
