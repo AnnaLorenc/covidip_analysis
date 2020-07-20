@@ -48,3 +48,4 @@ results_seropos <- seropos_seroneg_comparison%>%
   select(param, pvalseropos_par, pvalseropos_log, pval_seropos_final)
 
 
+
