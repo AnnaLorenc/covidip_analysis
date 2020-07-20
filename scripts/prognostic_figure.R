@@ -15,7 +15,6 @@ patient <- read_csv(patient_datalocation)
 combined_data <-
   left_join(sample, patient, by = c("patient_id"))
 
-combined_data <- left_join(megatable, patient_data, by = "patient_id")
 
 combined_data_1 <-   combined_data %>%
   mutate(
