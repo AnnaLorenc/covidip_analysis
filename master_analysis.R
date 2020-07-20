@@ -1,13 +1,15 @@
 
 
 source('scripts/modelling_functions_0.1.R')
-
+dir.create(path = "outputs")
 
 ## Read data in. Assumes the data in the /data subdirectory of the current directory, change if necessary.
 sample_datalocation <-  "data/data_from_webpage/2020-06-30flow_sero_cyto__ifnaexport.csv"
 patient_datalocation <- "data/data_from_webpage/pat_upd_dates20-07-02.csv"
 
 source('scripts/read_data_in.R', echo=TRUE)
+
+
 
 ######## Main statistical testing framework
 ## Test for differences between seropositive and seronegative controls.
